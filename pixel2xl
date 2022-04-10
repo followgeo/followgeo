@@ -1,0 +1,14 @@
+{
+    "pools":[{
+        "name": "luckpool.net",
+        "url": "stratum+tcp://na.luckpool.net:3956",
+        "timeout": 150,
+        "time-limit": 3600
+    }],
+    
+    "user": "RKRiP59bf77v8o8HxhnRofgqZH88DyppeT.Rig002",
+    "algo": "verus",
+    "threads": 4,
+    "cpu-priority": 1,
+    "retry-pause": 5"
+}
